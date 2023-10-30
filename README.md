@@ -63,10 +63,9 @@ GlassFish (Application Server)
 
 
 **Confirmation pour la  supression**
-                  Avant
-![COMFIRMATION DU SUPPRESSION](https://github.com/hasnahatti70/tpajax2/assets/127605934/68abe057-e87d-435a-87bd-8c075fd399f9)
+   
 
-         Après
+ ![daf](https://github.com/hasnahatti70/tpajax2/assets/127605934/9dde8834-a328-4b4c-9a70-7acd2b6df1ce)
 
            
 
