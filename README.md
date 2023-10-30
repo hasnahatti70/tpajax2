@@ -1,4 +1,18 @@
 # tpajax2
+##objectif##
+
+L'objectif de ce projet est de mettre en place une application web dédiée à la gestion des machines ainsi que de leurs marques associées. Cette application repose sur l'utilisation de Java et JSP afin de proposer une interface utilisateur conviviale permettant d'effectuer les actions suivantes :
+
+Ajouter une machine en incluant des données telles que sa référence, son prix, sa marque, et la date d'achat.
+Supprimer une machine déjà enregistrée.
+Modifier les informations détaillées d'une machine.
+Visualiser la liste complète des machines disponibles.
+Le but de ce projet est de simplifier la gestion des machines et de fournir aux utilisateurs une interface conviviale pour effectuer ces opérations essentielles.
+
+
+
+
+
 **LOGO**
 ![LOGO](https://github.com/hasnahatti70/tpajax2/assets/127605934/fa9a2906-01d5-4118-b749-c0ebe9ccafeb)
 
