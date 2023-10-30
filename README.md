@@ -52,8 +52,10 @@ GlassFish (Application Server)
            Avant
 ![changement du coleur](https://github.com/hasnahatti70/tpajax2/assets/127605934/04e1d249-d878-48a5-8b9d-98cea4903206)
 
-        Apres *
-        ![hasnacolor](https://github.com/hasnahatti70/tpajax2/assets/127605934/49462955-fb6d-4249-bb46-cf1c2c744c8d)
+           Après
+![hasnacolor](https://github.com/hasnahatti70/tpajax2/assets/127605934/49462955-fb6d-4249-bb46-cf1c2c744c8d)
+        
+       
 
 
                                                                                                               
