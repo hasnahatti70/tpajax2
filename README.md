@@ -10,7 +10,18 @@ Modifier les informations détaillées d'une machine.
 Visualiser la liste complète des machines disponibles.
 Le but de ce projet est de simplifier la gestion des machines et de fournir aux utilisateurs une interface conviviale pour effectuer ces opérations essentiell
 
+# Technologies Utilisées
 
+Java
+JSP (JavaServer Pages)
+Hibernate
+MySQL (Database)
+HTML
+CSS
+JavaScript
+jQuery
+AJAX
+GlassFish (Application Server)
 
 # ScreenShoots
 
