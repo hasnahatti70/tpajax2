@@ -48,13 +48,23 @@ GlassFish (Application Server)
 ![LOGO](https://github.com/hasnahatti70/tpajax2/assets/127605934/fa9a2906-01d5-4118-b749-c0ebe9ccafeb)
 
 **Changement du coleur**
+
+          ## Avant
 ![changement du coleur](https://github.com/hasnahatti70/tpajax2/assets/127605934/04e1d249-d878-48a5-8b9d-98cea4903206)
+
+        ## Apres 
+
+        ![hasnacolor](https://github.com/hasnahatti70/tpajax2/assets/127605934/49462955-fb6d-4249-bb46-cf1c2c744c8d)
+
 
 
 **Confirmation pour la  supression**
-
+                  ##Avant
 ![COMFIRMATION DU SUPPRESSION](https://github.com/hasnahatti70/tpajax2/assets/127605934/68abe057-e87d-435a-87bd-8c075fd399f9)
 
+           ##Après
+
+           
 
 ![SUP2](https://github.com/hasnahatti70/tpajax2/assets/127605934/e302bf08-4922-4b4c-9814-1fddbbb20a94)
 
