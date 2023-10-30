@@ -1,5 +1,5 @@
 # tpajax2
-##objectif##
+*objectif*
 
 L'objectif de ce projet est de mettre en place une application web dédiée à la gestion des machines ainsi que de leurs marques associées. Cette application repose sur l'utilisation de Java et JSP afin de proposer une interface utilisateur conviviale permettant d'effectuer les actions suivantes :
 
