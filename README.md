@@ -61,3 +61,7 @@ GlassFish (Application Server)
 **Filter machine par marque**
 
 ![filter machine par marque](https://github.com/hasnahatti70/tpajax2/assets/127605934/ac4a7a70-08f8-4b00-a1c6-34bbf061e758)
+
+
+**Machine par marque**
+![machine par marque](https://github.com/hasnahatti70/tpajax2/assets/127605934/7ecb04fe-ba3e-425d-8c4a-b9ca1ce51d64)
